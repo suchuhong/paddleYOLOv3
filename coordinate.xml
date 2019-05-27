@@ -1,0 +1,30 @@
+<coordinate>
+	<imgname name="pineapple004.jpg">
+		<labelname name="pineappletop">
+			<pineappletop_x>300</pineappletop_x>
+			<pineappletop_y>145</pineappletop_y>
+		</labelname>
+		<labelname name="pineapple">
+			<pineappletop_x>281</pineappletop_x>
+			<pineappletop_y>305</pineappletop_y>
+		</labelname>
+		<labelname name="pineapplebottom">
+			<pineappletop_x>280</pineappletop_x>
+			<pineappletop_y>483</pineappletop_y>
+		</labelname>
+	</imgname>
+	<imgname name="pineapple088.jpg">
+		<labelname name="pineappletop">
+			<pineappletop_x>309</pineappletop_x>
+			<pineappletop_y>462</pineappletop_y>
+		</labelname>
+		<labelname name="pineapple">
+			<pineappletop_x>267</pineappletop_x>
+			<pineappletop_y>278</pineappletop_y>
+		</labelname>
+		<labelname name="pineapplebottom">
+			<pineappletop_x>247</pineappletop_x>
+			<pineappletop_y>116</pineappletop_y>
+		</labelname>
+	</imgname>
+</coordinate>
